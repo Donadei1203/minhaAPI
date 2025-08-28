@@ -7,7 +7,7 @@
         "cidade": "Xique-Xique",
         "pais": "Brasil",
         "link": "",
-        "imagem": "<img src='img/ramon.jpg' width='200px'"
+        "imagem": "<img src='img/ramon.jpg' width='200px'>"
 
     },
     {
@@ -18,7 +18,7 @@
         "cidade": "Suzano",
         "pais": "Brasil",
         "link": "",
-        "imagem": "<img src='img/sharkboy.jpg' width='200px'"
+        "imagem": "<img src='img/sharkboy.jpg' width='200px'>"
 
     },
     {
@@ -29,7 +29,7 @@
         "cidade": "Roma",
         "pais": "Itália",
         "link": "",
-        "imagem": "<img src='img/italianogenerico.jpg' width='200px'"
+        "imagem": "<img src='img/italianogenerico.jpg' width='200px'>"
 
     }
 
