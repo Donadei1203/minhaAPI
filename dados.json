@@ -6,7 +6,7 @@
         "sobrenome": "Bispo",
         "cidade": "Xique-Xique",
         "pais": "Brasil",
-        "link": "",
+        "link": "https://pt.wikipedia.org/wiki/Ramon_Dino",
         "imagem": "<img src='img/ramon.jpg' width='200px'>"
 
     },
@@ -17,7 +17,7 @@
         "sobrenome": "Oliveira",
         "cidade": "Suzano",
         "pais": "Brasil",
-        "link": "",
+        "link": "https://pt.wikipedia.org/wiki/The_Adventures_of_Sharkboy_and_Lavagirl_in_3-D",
         "imagem": "<img src='img/sharkboy.jpg' width='200px'>"
 
     },
@@ -28,19 +28,19 @@
         "sobrenome": "Buonasera",
         "cidade": "Roma",
         "pais": "Itália",
-        "link": "",
+        "link": "https://pt.wikipedia.org/wiki/It%C3%A1lia",
         "imagem": "<img src='img/italianogenerico.jpg' width='200px'>"
 
     },
     {
-            "id": 4,
-            "cpf": 22233344455,
-            "nome": "Camila",
-            "sobrenome": "Ferraz",
-            "cidade": "Campinas",
-            "pais": "Brasil",
-            "link": "",
-            "imagem": "<img src='img/campinense.jpg' width='200px'>"
+        "id": 4,
+        "cpf": 22233344455,
+        "nome": "Camila",
+        "sobrenome": "Ferraz",
+        "cidade": "Campinas",
+        "pais": "Brasil",
+        "link": "https://pt.wikipedia.org/wiki/Campinas",
+        "imagem": "<img src='img/campinense.jpg' width='200px'>"
     },
     {
         "id": 5,
@@ -49,7 +49,7 @@
         "sobrenome": "Tanaka",
         "cidade": "Osaka",
         "pais": "Japão",
-        "link": "",
+        "link": "https://pt.wikipedia.org/wiki/Bruce_Lee",
         "imagem": "<img src='img/japa.jpg' width='200px'>"
     },
     {
@@ -59,7 +59,7 @@
         "sobrenome": "El-Sayed",
         "cidade": "Cairo",
         "pais": "Egito",
-        "link": "",
+        "link": "https://pt.wikipedia.org/wiki/Egito",
        "imagem": "<img src='img/egitense.jpg' width='200px'>"
     },
    {
@@ -69,7 +69,7 @@
         "sobrenome": "Moreira",
         "cidade": "Salvador",
         "pais": "Brasil",
-        "link": "",
+        "link": "https://pt.wikipedia.org/wiki/Brasileiros",
         "imagem": "<img src='img/brasileiro.jpg' width='200px'>"
     },
     {
@@ -79,7 +79,7 @@
         "sobrenome": "Schmidt",
         "cidade": "Munique",
         "pais": "Alemanha",
-        "link": "",
+        "link": "https://pt.wikipedia.org/wiki/Alem%C3%A3es",
         "imagem": "<img src='img/alemao.jpg' width='200px'>"
     },
     {
@@ -89,7 +89,7 @@
         "sobrenome": "González",
         "cidade": "Buenos Aires",
         "pais": "Argentina",
-        "link": "",
+        "link": "https://pt.wikipedia.org/wiki/Argentina",
         "imagem": "<img src='img/argentino.jpg' width='200px'>"
     },
     {
@@ -99,7 +99,7 @@
         "sobrenome": "Dubois",
         "cidade": "Paris",
         "pais": "França",
-        "link": "",
+        "link": "https://pt.wikipedia.org/wiki/Kylian_Mbapp%C3%A9",
         "imagem": "<img src='img/frances.jpg' width='200px'>"
     }
     
